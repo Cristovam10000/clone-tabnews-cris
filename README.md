@@ -1,2 +1,2 @@
 # clone-tabnews-cris
-pratica de programação 
+pratica de programação
