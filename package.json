@@ -1,0 +1,25 @@
+{
+  "name": "clone-tabnews-cris",
+  "version": "1.0.0",
+  "description": "pratica de programação",
+  "homepage": "https://github.com/Cristovam10000/clone-tabnews-cris#readme",
+  "bugs": {
+    "url": "https://github.com/Cristovam10000/clone-tabnews-cris/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristovam10000/clone-tabnews-cris.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
